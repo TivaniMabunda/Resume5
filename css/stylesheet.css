@@ -1,0 +1,38 @@
+aside{background-color: darkorchid;
+    border:none;
+    border-width: 30px;
+    margin-right: 80%;
+    }
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 110%;
+background-color: moccasin;
+}
+h1 { color: yellow;}
+h2 {color: violet;}
+.icons{
+    width: 3rem;
+    height: auto;
+    color: whitesmoke;
+}
+header{background-color: darkturquoise;
+    text-align: center;
+    }
+#Container {
+    border: black;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    background-color: bisque;
+}
+footer{background-color: cadetblue;
+text-align: center;}
+article{color: blue;
+    background-color: cyan;
+}
+
+#Contact {background-color: lightskyblue;
+    color: purple;}
+
+.liststyle{color: orange;}
+
